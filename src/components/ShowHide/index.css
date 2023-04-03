@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  width: auto;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+}
+.main-heading {
+  font-size: 32px;
+}
+.sub-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  font-size: 18px;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 8px;
+  color: #fc63a7;
+  width: 150px;
+  margin: 30px;
+  font-family: 'roboto';
+}
+.name {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 500;
+  font-family: 'roboto';
+  padding-left: 108px;
+  padding-right: 108px;
+  padding-top: 48px;
+  padding-bottom: 43px;
+  background-color: #ffffff;
+  color: black;
+}
